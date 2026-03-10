@@ -1,0 +1,62 @@
+<section id="videos">
+<h2>Sustainability Video Library</h2>
+
+<video width="600" controls>
+<source src="videos/project1.mp4" type="video/mp4">
+</video>
+
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/0XTBYMfZyrM">
+</iframe>
+
+</section><section id="activities">
+
+<h2>University Activities</h2>
+
+<table>
+
+<tr>
+<th>Date</th>
+<th>Department</th>
+<th>Activity</th>
+</tr>
+
+<tr>
+<td>2026</td>
+<td>Technical Institute Najaf</td>
+<td>Tree Planting Campaign</td>
+</tr>
+
+<tr>
+<td>2026</td>
+<td>Engineering Technical College</td>
+<td>Solar Energy Project</td>
+</tr>
+
+</table>
+
+</section><section>
+
+<h2>Achievements Data</h2>
+
+<a href="data/sdg_report.xlsx">
+Download Excel Report
+</a>
+<header>
+
+<h1>Sustainable Development Portal</h1>
+<h3>Al-Furat Al-Awsat Technical University</h3>
+
+</header>
+
+<nav>
+
+<a href="#">Home</a>
+<a href="#">Activities</a>
+<a href="#">Videos</a>
+<a href="#">Environment Strategy</a>
+<a href="#">Energy Strategy</a>
+<a href="#">Reports</a>
+
+</nav>
+</section>
